@@ -1,3 +1,7 @@
 <?php
-	echo "Hello World";
+	$i = 0;
+	while ($i == 0) {
+		echo $i;
+		$i++;
+	}
 ?>
